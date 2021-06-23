@@ -9,3 +9,6 @@ First go to EC2 Dashboard and create a instance
 Then create image
 Select instace -> go to action -> select images and templet -> select create image
 
+![repo2](https://user-images.githubusercontent.com/73579847/123122772-ebed9980-d463-11eb-9de7-8a3714c51922.jpg)
+
+
