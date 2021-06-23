@@ -6,7 +6,7 @@ First go to EC2 Dashboard and create EC2 instance
 ![repo1](https://user-images.githubusercontent.com/73579847/123121561-e2176680-d462-11eb-91b4-c3fb57634fb2.jpg)
 
 # Step 2:
-Then create image
+Then create image; 
 Select instace -> go to action -> select images and templet -> select create image
 
 ![repo2](https://user-images.githubusercontent.com/73579847/123122772-ebed9980-d463-11eb-9de7-8a3714c51922.jpg)
@@ -33,15 +33,15 @@ Then connect the instance and go to RDP client and download remote destop file
 # Step 7:
 After connect to Remote Desktop, Create a text document name a.bat and save that file as a.bat
 ![repo11](https://user-images.githubusercontent.com/73579847/123133928-e301c580-d46d-11eb-9142-095007d325fd.jpg)
-![repo12](https://user-images.githubusercontent.com/73579847/123133939-e6954c80-d46d-11eb-9d35-51a5b822224d.jpg)
 
 # Step 8:
 Then open that file multiple time, so that the CPU Utilization will increase
 ![repo14](https://user-images.githubusercontent.com/73579847/123133961-eb5a0080-d46d-11eb-894a-00381442a999.jpg)
-![repo15](https://user-images.githubusercontent.com/73579847/123133969-edbc5a80-d46d-11eb-88a9-75889de0b314.jpg)
+
 
 # Step 9:
 Becasue our CPU Utilization cross 50% so that a new EC2 instance will create
+![repo15](https://user-images.githubusercontent.com/73579847/123133969-edbc5a80-d46d-11eb-88a9-75889de0b314.jpg)
 ![repo16](https://user-images.githubusercontent.com/73579847/123133980-f01eb480-d46d-11eb-9d3e-7dfe192103f0.jpg)
 
 
