@@ -11,4 +11,11 @@ Select instace -> go to action -> select images and templet -> select create ima
 
 ![repo2](https://user-images.githubusercontent.com/73579847/123122772-ebed9980-d463-11eb-9de7-8a3714c51922.jpg)
 
+![repo3](https://user-images.githubusercontent.com/73579847/123123074-2eaf7180-d464-11eb-80f8-1bb19b311e91.jpg)
+
+# Step 3:
+Then create lunch configuration
+
+
+
 
