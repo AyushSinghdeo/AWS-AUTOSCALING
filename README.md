@@ -33,6 +33,8 @@ Then connect the instance and go to RDP client and download remote destop file
 # Step 7:
 After connect to Remote Desktop, Create a text document name a.bat and save that file as a.bat
 ![repo11](https://user-images.githubusercontent.com/73579847/123133928-e301c580-d46d-11eb-9142-095007d325fd.jpg)
+![repo13](https://user-images.githubusercontent.com/73579847/123133950-e8f7a680-d46d-11eb-8993-63de4788d40e.jpg)
+
 
 # Step 8:
 Then open that file multiple time, so that the CPU Utilization will increase
