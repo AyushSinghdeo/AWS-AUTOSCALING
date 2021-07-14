@@ -1,18 +1,6 @@
 # AWS-AUTOSCALING
 Amazon EC2 Autoscaling helps us ensure that we have the correct number of Amazon EC2 instances available to handle the load for our application. We can create collections of EC2 instances, called Auto Scaling groups. We can specify the minimum number of instances in each Auto Scaling group, and Amazon EC2 Auto Scaling ensures that our group never goes below this size. We can specify the maximum number of instances in each Auto Scaling group, and Amazon EC2 Auto Scaling ensures that your group never goes above this size. If we specify the desired capacity, either when we create the group or at any time thereafter, Amazon EC2 Auto Scaling ensures that our group has this many instances. If we specify scaling policies, then Amazon EC2 Auto Scaling can launch or terminate instances as demand on our application increases or decreases.
 
-
-
-
-
-
-
-
-
-![11](https://user-images.githubusercontent.com/73579847/125653836-c0aee3e4-8b52-445a-bc11-24cc5c13c9af.png)
-![22](https://user-images.githubusercontent.com/73579847/125653801-177a81ff-9551-49aa-a73f-f3c4a6661c7a.png)
-
-
 Autoscaling mainly comprise of 4 important steps:
 1. Launch an instance.
 
