@@ -76,24 +76,5 @@ To increase CPU utilization, create a .bat file and open the file multiple times
 
 
 
-# Step 7:
-After connect to Remote Desktop, Create a text document name a.bat and save that file as a.bat
-![repo11](https://user-images.githubusercontent.com/73579847/123133928-e301c580-d46d-11eb-9142-095007d325fd.jpg)
-![repo13](https://user-images.githubusercontent.com/73579847/123133950-e8f7a680-d46d-11eb-8993-63de4788d40e.jpg)
-
-
-# Step 8:
-Then open that file multiple time, so that the CPU Utilization will increase
-![repo14](https://user-images.githubusercontent.com/73579847/123133961-eb5a0080-d46d-11eb-894a-00381442a999.jpg)
-
-
-# Step 9:
-Becasue our CPU Utilization cross 50% so that a new EC2 instance will create
-![repo15](https://user-images.githubusercontent.com/73579847/123133969-edbc5a80-d46d-11eb-88a9-75889de0b314.jpg)
-![repo16](https://user-images.githubusercontent.com/73579847/123133980-f01eb480-d46d-11eb-9d3e-7dfe192103f0.jpg)
-
-
-
-
 
 
