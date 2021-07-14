@@ -90,6 +90,7 @@ In RDP client, click Get Password.
 ![23](https://user-images.githubusercontent.com/73579847/125653678-a40d7ee2-e194-46eb-899e-ca80d85b9fb8.png)
 
 Browse the key-pair you used while launching the instance and click on Decrypt Password.
+![24](https://user-images.githubusercontent.com/73579847/125657267-30624f6c-47d2-458b-b85a-615fe74a9e54.png)
 
 Download the Remote Desktop file and copy the password.
 ![25](https://user-images.githubusercontent.com/73579847/125653674-b33f11d5-2630-4e9c-81a8-591e1ad2c648.png)
