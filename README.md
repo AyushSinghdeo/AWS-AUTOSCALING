@@ -1,5 +1,30 @@
 # AWS-AUTOSCALING
 Amazon EC2 Autoscaling helps us ensure that we have the correct number of Amazon EC2 instances available to handle the load for our application. We can create collections of EC2 instances, called Auto Scaling groups. We can specify the minimum number of instances in each Auto Scaling group, and Amazon EC2 Auto Scaling ensures that our group never goes below this size. We can specify the maximum number of instances in each Auto Scaling group, and Amazon EC2 Auto Scaling ensures that your group never goes above this size. If we specify the desired capacity, either when we create the group or at any time thereafter, Amazon EC2 Auto Scaling ensures that our group has this many instances. If we specify scaling policies, then Amazon EC2 Auto Scaling can launch or terminate instances as demand on our application increases or decreases.
+![27](https://user-images.githubusercontent.com/73579847/125653629-b36a5103-2b67-4ba6-b7ec-cca640ca8a05.png)
+![26](https://user-images.githubusercontent.com/73579847/125653664-23e10a6f-6340-4bba-957f-6041a03bdd77.png)
+![25](https://user-images.githubusercontent.com/73579847/125653674-b33f11d5-2630-4e9c-81a8-591e1ad2c648.png)
+![24](https://user-images.githubusercontent.com/73579847/125653676-ebbad91a-8301-477f-82c2-73d74a442e14.png)
+![23](https://user-images.githubusercontent.com/73579847/125653678-a40d7ee2-e194-46eb-899e-ca80d85b9fb8.png)
+![22](https://user-images.githubusercontent.com/73579847/125653687-f6fa84f1-ef7c-4064-accc-258d4871ae97.png)
+![19](https://user-images.githubusercontent.com/73579847/125653789-e17355ae-ad2d-4994-8120-6440a09eef32.png)
+![20](https://user-images.githubusercontent.com/73579847/125653796-2735b1dd-5030-47cb-951b-e4edc369fe35.png)
+![13](https://user-images.githubusercontent.com/73579847/125653843-ba02bc57-0543-47ba-a2ff-9a77862685ea.png)
+![14](https://user-images.githubusercontent.com/73579847/125653848-7a9f3cf0-c43b-442a-a82e-f2385a2c9d92.png)
+![15](https://user-images.githubusercontent.com/73579847/125653852-0298c86a-2045-4d7f-96f7-6014d22d3b66.png)
+![16](https://user-images.githubusercontent.com/73579847/125653854-41845e52-953c-4752-a52d-ecda3bc69cb9.png)
+![17](https://user-images.githubusercontent.com/73579847/125653857-00c3d373-d3d1-4186-a7e5-2318ccaccbfe.png)
+![18](https://user-images.githubusercontent.com/73579847/125653864-c0d61a28-4ecb-40ee-a532-c896d7cd3699.png)
+![12](https://user-images.githubusercontent.com/73579847/125653839-7d4c2319-73b9-489b-8137-f9bd5d852ab4.png)
+![10](https://user-images.githubusercontent.com/73579847/125653834-f2d982cb-b73e-478b-9cae-8354a18727b1.png)
+![11](https://user-images.githubusercontent.com/73579847/125653836-c0aee3e4-8b52-445a-bc11-24cc5c13c9af.png)
+![22](https://user-images.githubusercontent.com/73579847/125653801-177a81ff-9551-49aa-a73f-f3c4a6661c7a.png)
+![7](https://user-images.githubusercontent.com/73579847/125653825-9e3500ea-b515-4022-b427-82b8e6e5c244.png)
+![8](https://user-images.githubusercontent.com/73579847/125653829-633cadb1-f96d-42ec-b778-7f7fd20dde7e.png)
+![9](https://user-images.githubusercontent.com/73579847/125653833-16288dc7-f593-4bb7-95e4-abe2649721fa.png)
+![2](https://user-images.githubusercontent.com/73579847/125653809-247649a1-c088-4462-939f-c3a51c83f18d.png)
+![3](https://user-images.githubusercontent.com/73579847/125653810-7b6ad08b-83ee-4e63-bd93-047afd56a510.png)
+![4](https://user-images.githubusercontent.com/73579847/125653816-15632d1a-238c-4ff8-becc-0901c859a43c.png)
+
 
 Autoscaling mainly comprise of 4 important steps:
 1. Launch an instance.
